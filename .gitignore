@@ -1,0 +1,7 @@
+# 프로젝트 출력 파일
+/out/
+/bin/
+
+# IDE 설정 파일
+/.vscode/
+/.idea/
