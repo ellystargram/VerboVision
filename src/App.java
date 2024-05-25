@@ -27,6 +27,8 @@ public class App {
         
         // System.out.println();
 
+        //asdf
+
         // System.out.println(test[4].isKoreanMatched("a가 b하는 것을 막다"));//true
         // System.out.println(test[4].isKoreanMatched("a가 B하는 것을 막다"));//true
         // System.out.println(test[4].isKoreanMatched("A가 b하는 것을 막다")); //true
